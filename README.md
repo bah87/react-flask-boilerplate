@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Resources
+
+- Babel/MobX decorators: https://medium.com/@jorgedjuana/use-mobx-decorators-with-create-react-app-9b37ab699c66
+- Basic Flask/React setup: https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
