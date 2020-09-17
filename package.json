@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "react-app-rewired start",
+    "start-api": "cd api && venv/bin/flask run --no-debugger",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-app-rewired eject"
@@ -47,5 +48,6 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "proxy": "http://localhost:5000"
 }
